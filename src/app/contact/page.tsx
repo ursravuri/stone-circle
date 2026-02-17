@@ -60,7 +60,7 @@ export default function ContactPage() {
             <div className="space-y-8">
               <div>
                 <h3 className="font-semibold text-granite-charcoal mb-2">Factory & Head Office</h3>
-                <p className="text-slate-gray text-sm leading-relaxed">Stone Circle Manufacturing<br />Contact: Anil Kumar Ravuri<br />Martur, Andhra Pradesh<br />India</p>
+                <p className="text-slate-gray text-sm leading-relaxed">GRASTO INDUSTRIES<br />Contact: Anil Kumar Ravuri<br />Martur, Andhra Pradesh<br />India</p>
               </div>
               <div>
                 <h3 className="font-semibold text-granite-charcoal mb-2">Phone</h3>
@@ -68,7 +68,7 @@ export default function ContactPage() {
               </div>
               <div>
                 <h3 className="font-semibold text-granite-charcoal mb-2">Email</h3>
-                <p className="text-slate-gray text-sm">info@stonecircle.com<br />sales@stonecircle.com</p>
+                <p className="text-slate-gray text-sm">info@grasto.com<br />sales@grasto.com</p>
               </div>
               <div>
                 <h3 className="font-semibold text-granite-charcoal mb-2">Business Hours</h3>

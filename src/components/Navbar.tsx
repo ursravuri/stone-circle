@@ -24,7 +24,7 @@ export default function Navbar() {
         <Link href="/" className="flex items-center gap-3">
           <Logo className="w-10 h-10" />
           <span className="font-[family-name:var(--font-playfair)] text-xl font-bold text-granite-charcoal">
-            Stone Circle
+            GRASTO INDUSTRIES
           </span>
         </Link>
 

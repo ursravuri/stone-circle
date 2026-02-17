@@ -15,7 +15,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Stone Circle | Premium Granite Manufacturer | Zero-Waste",
+  title: "GRASTO INDUSTRIES | Premium Granite Manufacturer | Zero-Waste",
   description:
     "Leading granite manufacturer producing premium slabs, tiles, countertops, and recycled granite dust products. 100% zero-waste manufacturing. Request a free quote today.",
 };

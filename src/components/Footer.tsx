@@ -28,7 +28,7 @@ export default function Footer() {
             <div className="flex items-center gap-3 mb-3">
               <Logo className="w-9 h-9" />
               <span className="font-[family-name:var(--font-playfair)] text-xl font-bold text-white">
-                Stone Circle
+                GRASTO INDUSTRIES
               </span>
             </div>
             <p className="text-sm leading-relaxed">
@@ -75,18 +75,18 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold text-white mb-5">Contact Us</h4>
             <div className="space-y-2 text-sm">
-              <p>Stone Circle Manufacturing</p>
+              <p>GRASTO INDUSTRIES</p>
               <p>Anil Kumar Ravuri</p>
               <p>Martur, Andhra Pradesh, India</p>
               <br />
               <p>+91 98765 43210</p>
-              <p>info@stonecircle.com</p>
+              <p>info@grasto.com</p>
             </div>
           </div>
         </div>
 
         <div className="border-t border-white/10 py-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
-          <span>&copy; 2026 Stone Circle. All rights reserved.</span>
+          <span>&copy; 2026 GRASTO INDUSTRIES. All rights reserved.</span>
           <div className="flex gap-6">
             <Link
               href="#"
